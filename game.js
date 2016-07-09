@@ -1,0 +1,5 @@
+
+exports.game = {
+	
+	wordBank : ["relax"]
+};
